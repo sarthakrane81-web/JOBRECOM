@@ -1,0 +1,203 @@
+⭐ FINAL PROJECT TITLE CAN BECOME
+
+👉 Comprehensive IT Job Market Analytics and Salary Prediction using ML and Power BI
+
+This sounds very strong 💥
+
+You created many CSV files, so confusion is normal 🙂
+Let me explain clearly which file is MAIN.
+
+✅ ⭐ MAIN DATASET FOR YOUR PROJECT
+
+👉 The final and most important file is:
+
+final_jobs_skills.csv
+
+This is your PROJECT MASTER DATASET ⭐
+
+✅ ⭐ Why This is Main File
+
+Because this file contains:
+
+✔ Real-time API data
+✔ Kaggle historical data
+✔ Cleaned data
+✔ Salary columns
+✔ Extracted skills
+✔ Ready for ML
+✔ Ready for Power BI
+
+👉 This file is used everywhere in project
+
+Data Analysis
+
+Machine Learning
+
+Dashboard
+
+Project Report
+
+✅ ⭐ Other Files Meaning (For Your Understanding)
+📄 adzuna_jobs.csv
+
+➡ Only raw API data
+➡ Not clean
+➡ Not final
+
+📄 final_jobs.csv
+
+➡ Combined data
+➡ Still dirty
+
+📄 final_jobs_cleaned.csv
+
+➡ Cleaned data
+➡ But no skills column
+
+⭐ 📄 final_jobs_skills.csv
+
+➡ FINAL processed dataset
+➡ This is main
+############################################################
+⭐ Which file stores what
+⭐ Which file is main
+⭐ Which file is temporary
+⭐ Which file is historical
+
+Let me explain simple + clear.
+
+✅ ⭐ MAIN DATA FILE (Most Important)
+📄 final_jobs_skills.csv ⭐⭐⭐⭐⭐
+
+👉 This is FINAL PROJECT DATASET
+
+Contains:
+
+Job Title
+
+Company
+
+Location
+
+Salary
+
+Description
+
+Skills extracted
+
+Role Category
+
+Date collected
+
+Used for:
+
+✔ Python analysis
+✔ Trend analysis
+✔ Machine learning
+✔ Power BI dashboard
+✔ Project report
+
+👉 In viva say:
+
+This is my final processed dataset created from multiple sources.
+
+✅ ⭐ Historical Storage File
+📄 final_jobs.csv ⭐⭐⭐⭐
+
+👉 This is RAW + Historical combined dataset
+
+Contains:
+
+API data
+
+Kaggle data
+
+Developer role data
+
+Appended daily
+
+Used for:
+
+✔ Storing full history
+✔ Rebuilding cleaned dataset
+✔ Trend analysis base
+
+✅ ⭐ Multi-role Data File
+📄 multi_role_jobs.csv ⭐⭐⭐
+
+👉 Contains:
+
+Software developer jobs
+
+Java developer jobs
+
+ML engineer jobs
+
+Used for:
+
+✔ Role comparison analysis
+✔ Skill comparison
+
+✅ ⭐ API Raw Data
+📄 adzuna_jobs.csv ⭐⭐
+
+👉 Contains:
+
+Only latest API collected data
+
+Used for:
+
+✔ Input to combine script
+✔ Real-time data source
+
+Not used directly in dashboard.
+
+✅ ⭐ Cleaned Dataset
+📄 final_jobs_cleaned.csv ⭐⭐
+
+👉 Contains:
+
+Cleaned version
+
+Missing values handled
+
+Temporary processing file.
+
+✅ ⭐ Kaggle Dataset
+📄 IndianCompanies.csv ⭐⭐
+
+👉 Contains:
+
+Historical job/company info
+
+Used as secondary data source.
+
+⭐ Data Flow (Very Important Understanding)
+API + Multi-role + Kaggle
+        ↓
+   final_jobs.csv  (historical storage)
+        ↓
+ data_cleaning.py
+        ↓
+final_jobs_cleaned.csv
+        ↓
+skill_extraction.py
+        ↓
+final_jobs_skills.csv ⭐ (MAIN)
+        ↓
+analysis / ML / Power BI
+⭐ Reports Folder
+
+Not data — contains:
+
+Graph images
+
+Trend images
+
+Used for report.
+
+⭐ FINAL SUMMARY (Remember)
+
+⭐ MAIN file → final_jobs_skills.csv
+⭐ HISTORY file → final_jobs.csv
+⭐ INPUT files → API + multi-role + Kaggle
